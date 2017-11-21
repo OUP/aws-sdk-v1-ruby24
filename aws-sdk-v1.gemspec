@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = 'aws-sdk-v1'
+  s.name = 'aws-sdk-v1-ruby24'
   s.version = File.read(File.expand_path('../VERSION', __FILE__)).strip
   s.summary = 'AWS SDK for Ruby V1'
   s.description = <<-DESCRIPTION.strip
@@ -12,7 +12,7 @@ application.
   s.homepage = 'http://aws.amazon.com/sdkforruby'
 
   s.add_dependency('nokogiri', '~> 1')
-  s.add_dependency('json', '~> 1.4')
+  s.add_dependency('json', '~> 2.0')
 
   s.files = [
     'ca-bundle.crt',
