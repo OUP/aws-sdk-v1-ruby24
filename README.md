@@ -3,7 +3,7 @@
 This is version 1 of the AWS SDK for Ruby. **Version 2 can be found in the
 [master branch](https://github.com/aws/aws-sdk-ruby).**
 
-## Ruby 2.4 Compatibilitky
+## Ruby 2.4 Compatibility
 
 This fork upgrades dependencies, thus breaking compatibility with Ruby 1.8.
 
